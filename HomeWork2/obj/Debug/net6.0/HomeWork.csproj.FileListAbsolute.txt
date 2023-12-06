@@ -1,0 +1,15 @@
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/bin/Debug/net6.0/HomeWork
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/bin/Debug/net6.0/HomeWork.deps.json
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/bin/Debug/net6.0/HomeWork.runtimeconfig.json
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/bin/Debug/net6.0/HomeWork.dll
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/bin/Debug/net6.0/HomeWork.pdb
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/obj/Debug/net6.0/HomeWork.csproj.AssemblyReference.cache
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/obj/Debug/net6.0/HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/obj/Debug/net6.0/HomeWork.AssemblyInfoInputs.cache
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/obj/Debug/net6.0/HomeWork.AssemblyInfo.cs
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/obj/Debug/net6.0/HomeWork.csproj.CoreCompileInputs.cache
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/obj/Debug/net6.0/HomeWork.dll
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/obj/Debug/net6.0/refint/HomeWork.dll
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/obj/Debug/net6.0/HomeWork.pdb
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/obj/Debug/net6.0/HomeWork.genruntimeconfig.cache
+/Users/andrejtynavi/Desktop/Lessons004/HomeWork/obj/Debug/net6.0/ref/HomeWork.dll
